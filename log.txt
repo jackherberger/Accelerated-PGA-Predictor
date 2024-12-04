@@ -1,0 +1,8 @@
+log.txt
+
+Set up input RDDS and obtain our final RDD of rounds – Tyler – 1hr
+Create StandardScaler method to scale data – Jack – 2hr
+Create KNN class to perform regression – Tyler – 2hr
+Create functionality for performance metrics – Jack – 2hr
+Presentation – Tyler/Jack – 1.5hr
+Report – Tyler/Jack – 2hr
